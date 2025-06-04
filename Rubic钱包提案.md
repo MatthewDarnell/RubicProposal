@@ -108,5 +108,5 @@ Rubic 运行在桌面上，使用内存安全的 Rust 语言编写，并且外�
 非常感谢您的考虑!
 
 ♥
-<img style="max-width: 3%; max-height: 3%;" src="/images/hz.png" />
+<img style="width: 5%; height: 5%;" src="/images/hz.png" />
 ♥
