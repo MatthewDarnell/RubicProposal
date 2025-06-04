@@ -73,15 +73,15 @@ Rubic 运行在桌面上，使用内存安全的 Rust 语言编写，并且外�
 
 **包含用户界面**:
 
-<img style="max-width: 40%; max-height: 5%;" src="/images/balances.png"/>\
-<img style="max-width: 40%; max-height: 5%;" src="/images/peers.png" />\
-<img style="max-width: 40%; max-height: 5%;" src="/images/additional_features.png" />
+<img style="max-width: 30%; max-height: 5%;" src="/images/balances.png"/>\
+<img style="max-width: 30%; max-height: 5%;" src="/images/peers.png" />\
+<img style="max-width: 30%; max-height: 5%;" src="/images/additional_features.png" />
 
 **第三方用户界面（正在开发中)**:
 
-<img style="max-width: 40%; max-height: 5%;" src="/images/tx.png" />\
-<img style="max-width: 40%; max-height: 5%;" src="/images/peer.png" />\
-<img style="max-width: 30%; max-height: 3%;" src="/images/pw.png" />
+<img style="max-width: 30%; max-height: 5%;" src="/images/tx.png" />\
+<img style="max-width: 30%; max-height: 5%;" src="/images/peer.png" />\
+<img style="max-width: 20%; max-height: 3%;" src="/images/pw.png" />
 
 
 ---
@@ -108,5 +108,5 @@ Rubic 运行在桌面上，使用内存安全的 Rust 语言编写，并且外�
 非常感谢您的考虑!
 
 ♥
-<img style="max-width: 5%; max-height: 5%;" src="/images/hz.png" />
+<img style="max-width: 3%; max-height: 3%;" src="/images/hz.png" />
 ♥

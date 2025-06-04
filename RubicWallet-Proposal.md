@@ -73,15 +73,15 @@ It also maintains a peer set of real Qubic nodes, making it not only a desktop w
 
 **Included UI:**
 
-<img style="max-width: 40%; max-height: 5%;" src="/images/balances.png"/>\
-<img style="max-width: 40%; max-height: 5%;" src="/images/peers.png" />\
-<img style="max-width: 40%; max-height: 5%;" src="/images/additional_features.png" />
+<img style="max-width: 30%; max-height: 5%;" src="/images/balances.png"/>\
+<img style="max-width: 30%; max-height: 5%;" src="/images/peers.png" />\
+<img style="max-width: 30%; max-height: 5%;" src="/images/additional_features.png" />
 
 **3rd Party UI Currently Under Development:**
 
-<img style="max-width: 40%; max-height: 5%;" src="/images/tx.png" />\
-<img style="max-width: 40%; max-height: 5%;" src="/images/peer.png" />\
-<img style="max-width: 30%; max-height: 3%;" src="/images/pw.png" />
+<img style="max-width: 30%; max-height: 5%;" src="/images/tx.png" />\
+<img style="max-width: 30%; max-height: 5%;" src="/images/peer.png" />\
+<img style="max-width: 20%; max-height: 3%;" src="/images/pw.png" />
 
 ---
 
