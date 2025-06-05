@@ -10,6 +10,9 @@ Rubic钱包提案.md
 
 欢迎查看代码并下载自动构建的发行版。: [Rubic 币钱包](https://github.com/matthewdarnell/rubic)
 
+Rubic 的第一次 git 提交是在 2023 年 8 月 8 日。自那时起，已经有 200 次提交。
+这个项目进展顺利，但也耗费了 700 多个小时。
+
 ---
 
 ## 🗳 投票项
