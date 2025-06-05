@@ -127,6 +127,9 @@ One of the critical components to a healthy coin ecosytem is a secure native des
 
 Feel free to view the code and download the auto-built release: [Rubic Wallet](https://github.com/matthewdarnell/rubic)
 
+The [first git commit](https://github.com/MatthewDarnell/rubic/commit/345e68c7f730cfde8a1fbb68bb1842029c423403) for Rubic was Aug 8, 2023. Since then, there have been 200 commits.
+This project has been a delight but also has taken 700+ hours.
+
 ---
 
 ## 🗳 Voting Options
