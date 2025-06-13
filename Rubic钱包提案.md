@@ -18,7 +18,7 @@ Rubic 的第一次 git 提交是在 2023 年 8 月 8 日。自那时起，已经
 ## 🗳 投票项
 
 - **不支持:**
-- **支持:** 批准向 **Matthew** 的钱包支付 (100,000,000,000 (100bn) Qus) 作为开发报酬 `RUBICDEVRDOILARXMHZCUOGLEEKBKUBOEIKCIHDJVAPAWSTDASIZMRGFIVBL`
+- **支持:** 批准向 **Matthew** 的钱包支付 (80,000,000,000 (80bn) Qus) 作为开发报酬 `RUBICDEVRDOILARXMHZCUOGLEEKBKUBOEIKCIHDJVAPAWSTDASIZMRGFIVBL`
 
 ---
 
@@ -138,7 +138,7 @@ This project has been a delight but also has taken 700+ hours.
 ## 🗳 Voting Options
 
 - **Option 0:** No, do not support Rubic Wallet
-- **Option 1:** Yes, approve compensating **Matthew** for development with **100,000,000,000 (100bn) Qus** to wallet:  
+- **Option 1:** Yes, approve compensating **Matthew** for development with **80,000,000,000 (80bn) Qus** to wallet:  
   `RUBICDEVRDOILARXMHZCUOGLEEKBKUBOEIKCIHDJVAPAWSTDASIZMRGFIVBL`  
 
 ---
