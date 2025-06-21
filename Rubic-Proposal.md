@@ -1,5 +1,4 @@
-RubicWallet-Proposal.md
-
+Rubic-Proposal.md
 
 # Proposal: Funding for Delivered Rubic Project
 
@@ -12,13 +11,47 @@ One of the critical components to a healthy coin ecosytem is a secure native des
 
 Feel free to view the code and download the auto-built release: [Rubic Wallet](https://github.com/matthewdarnell/rubic)
 
+The [first git commit](https://github.com/MatthewDarnell/rubic/commit/345e68c7f730cfde8a1fbb68bb1842029c423403) for Rubic was Aug 8, 2023. Since then, there have been 200 commits.
+This project has been a delight but also has taken 700+ hours.
+
+Assets are currently being added.
+
 ---
 
 ## 🗳 Voting Options
 
 - **Option 0:** No, do not support Rubic Wallet
-- **Option 1:** Yes, approve compensating **Matthew** for development with **100,000,000,000 (100bn) Qus** to wallet:  
+- **Option 1:** Yes, approve compensating **Matthew** for development with at least **30,000,000,000 (30bn) Qus** to wallet:  
+  `RUBICDEVRDOILARXMHZCUOGLEEKBKUBOEIKCIHDJVAPAWSTDASIZMRGFIVBL`. *No Additional Development Work Wanted.*
+- **Option 2:** Yes, approve compensating **Matthew** for development with at least **40,000,000,000 (40bn) Qus** to wallet:  
   `RUBICDEVRDOILARXMHZCUOGLEEKBKUBOEIKCIHDJVAPAWSTDASIZMRGFIVBL`  
+- **Option 3:** Yes, approve compensating **Matthew** for development with at least **50,000,000,000 (50bn) Qus** to wallet:  
+  `RUBICDEVRDOILARXMHZCUOGLEEKBKUBOEIKCIHDJVAPAWSTDASIZMRGFIVBL`. *Please Continue Working On Rubic.* 
+- **Option 4:** Yes, approve compensating **Matthew** for development with at least **60,000,000,000 (60bn) Qus** to wallet:  
+  `RUBICDEVRDOILARXMHZCUOGLEEKBKUBOEIKCIHDJVAPAWSTDASIZMRGFIVBL`  
+- **Option 5:** Yes, approve compensating **Matthew** for development with at least **70,000,000,000 (70bn) Qus** to wallet:  
+  `RUBICDEVRDOILARXMHZCUOGLEEKBKUBOEIKCIHDJVAPAWSTDASIZMRGFIVBL`  
+- **Option 6:** Yes, approve compensating **Matthew** for development with **80,000,000,000 (80bn) Qus** to wallet:  
+  `RUBICDEVRDOILARXMHZCUOGLEEKBKUBOEIKCIHDJVAPAWSTDASIZMRGFIVBL`. *Buy Rubic outright, Turn Over To Core Team On Payment.*
+
+---
+
+## 📝Vote Tallying
+
+The final price will be the *maximum* option which received 50%+ of the vote.
+
+For example:
+
+| Option | Votes |
+|--------|-------|
+| 0      | 100   |
+| 1      | 100   |
+| 2      | 100   |
+| 3      | 100   |
+| 4      | 100   |
+| 5      | 101   |
+
+Over 50% of the votes were for Option 3 and above, so the final price would be Option 3.
 
 ---
 
@@ -101,3 +134,4 @@ This proposal might be unusual because the product is being delivered up front. 
 Development has taken many hours of research, planning, and coding. My goal is for it to become a community project, on top of which many decentralized apps can be built.
 
 ----------
+
